@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          test react123 <Comp/>
+          adfjdfjkfkdkjf <Comp/>
         </p>
 
       </header>
